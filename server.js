@@ -28,8 +28,12 @@ app.listen(port, () => {
 });
 
 /* Routes */
+app.get("/", function (req, res) {
+  res.send("Here be dragons");
+});
 
 // Get weather data
+
 app.get("/data", (req, res) => res.status(200).send(projectData));
 
 // Store weather data
