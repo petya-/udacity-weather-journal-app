@@ -83,7 +83,7 @@ function updateUI(data) {
 
   document.getElementById(
     "icon"
-  ).src = `http://openweathermap.org/img/wn/${data.icon}.png`;
+  ).src = `https://openweathermap.org/img/wn/${data.icon}.png`;
 }
 
 /* Helper Functions */
