@@ -14,7 +14,7 @@ The full project requirement from Udacity - [Weather Journal App](https://review
 
 ## Instructions
 
-The project is hosted on Github Pages - [Project URL](https://petya-.github.io/udacity-blog-website/blog/blogPost.html)
+The project is hosted on Heroku - [Project URL](https://udacity-weather-journal-app.herokuapp.com/)
 
 If you want to set it up locally, simple clone the repository and run `npm install` to install the dependencies. Afterwards run `npm start`.
 
